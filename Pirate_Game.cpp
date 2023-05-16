@@ -1,17 +1,4 @@
 
-/*********
-   CTIS164 - Template Source Program
-----------
-STUDENT : Mustafa Asrın Değirmenci
-SECTION : 02
-HOMEWORK: HOMEWORK-2
-----------
-PROBLEMS:   No problems observed!
-----------
-ADDITIONAL FEATURES: Multiple fires, score counter, timer countdown, changing colors of the cannonballs, winner-loser screens,
- objective for the player, height adjustable platform for the cannon,  different speed for every target, two-way  background color transition
-*********/
-
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
 #endif
